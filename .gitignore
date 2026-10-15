@@ -12,10 +12,6 @@ __pycache__/
 *$py.class
 *.so
 
-# Banco de dados (para não subir o banco local SQLite)
-*.sqlite3
-*.db
-
 # Configurações do Django e Arquivos Estáticos/Mídia
 *.log
 local_settings.py
